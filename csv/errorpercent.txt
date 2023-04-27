@@ -1,0 +1,2 @@
+sport:   50000      errors: 1105        error%: 2.21 
+science: 50000      errors: 1284        error%: 2.568

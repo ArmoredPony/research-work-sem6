@@ -1,0 +1,15 @@
+science: 52884.0        errors: 1745.0   error%: 3.2996747598517513
+sport:   64262.0        errors: 2099.0   error%: 3.2663160187980456
+samples: 500            seed: 3253160346416873896
+
+science: 52884.0        errors: 1224.0   error%: 2.314499659632403
+sport:   64262.0        errors: 1637.0   error%: 2.5473841461516917
+samples: 1000           seed: 790546588428319595
+
+science: 52884.0        errors: 1029.0   error%: 1.9457680962105741
+sport:   64262.0        errors: 1483.0   error%: 2.3077401886029065
+samples: 1500           seed: 5888528693351537904
+
+science: 52884.0        errors: 748.0    error%: 1.4144164586642463
+sport:   64262.0        errors: 999.0    error%: 1.554573464878155
+samples: 2500           seed: -5934207914651010171
